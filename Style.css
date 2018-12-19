@@ -1,0 +1,16 @@
+body{
+    padding: 20px
+}
+h1,p{
+    color:green;
+    font-family: Arial;
+}
+h1{
+    font-size: 40px;
+    color: #7bd47b
+    
+}
+p{
+    font-size: 20px;
+    text-align: justify;
+}
